@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm David Martins!</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif"></a>
 </p>
 <hr/>
 <h4 align="center">I am a full-stack developer, Certified Ethical Hacker and Cybersecurity Analist. </br></br>Looking to take a part in a challenging project related to Cybersecurity or Pentesting.</h4>
