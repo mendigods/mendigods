@@ -9,13 +9,13 @@
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="500" height="350" />
 
 <br><br><br>
 
+- I am a full-stack developer, CEH and Cybersecurity Analist.
 - 👨🏽‍💻 I’m currently working on Lusonode project;
 - 💬 Ask me about anything, I am happy to help;
-- I am a full-stack developer, CEH and Cybersecurity Analist.
 
 <br><br><br><br><br><br>
 
