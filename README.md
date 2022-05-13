@@ -15,7 +15,7 @@
 
 - I am a full-stack developer, CEH and Cybersecurity Analyst.
 - 👨🏽‍💻 I’m currently working on Lusonode project;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 “Code is like humor. When you have to explain it, it’s bad.”
 
 <br><br><br><br><br><br>
 
