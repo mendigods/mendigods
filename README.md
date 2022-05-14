@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif"></a>
 </p>
 <hr/>
-<h4 align="center">I am a full-stack developer, Certified Ethical Hacker and Cybersecurity analyst. </br></br>Looking to take a part in a challenging project related to Cybersecurity or Pentesting.</h4>
+<h4 align="center">I am a full-stack developer, Certified Ethical Hacker and Cybersecurity analyst.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mendigods&label=Profile%20views&color=F70000&style=iron" alt="mendigods" /> </p>
 
